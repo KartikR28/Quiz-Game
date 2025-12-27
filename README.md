@@ -36,6 +36,8 @@ python main.py
 ## Screenshot
 <img width="590" alt="Quiz App Screenshot" src="https://github.com/user-attachments/assets/85cf4ada-f370-4a50-b1f1-354523ca1009" />```
 
+## Video
+https://www.instagram.com/p/DSxJam7Dera/
 
 ## How to Run
 ```bash
